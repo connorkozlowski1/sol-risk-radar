@@ -32,8 +32,9 @@ class TokenRiskRecord:
     volatility_1h: Optional[float]
     volatility_24h: Optional[float]
 
-    # derived risk scores
-    concentration_score: Optional[float]
-    liquidity_score: Optional[float]
-    volatility_score: Optional[float]
-    overall_risk_score: Optional[float]
+    # derived risk scores (all default to None)
+    concentration_score: Optional[float] = None
+    liquidity_score: Optional[float] = None
+    volume_score: Optional[float] = None
+    volatility_score: Optional[float] = None
+    overall_risk_score: Optional[float] = None

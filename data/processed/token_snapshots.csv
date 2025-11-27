@@ -1,0 +1,2 @@
+token_address,symbol,name,created_at,first_trade_at,top1_share,top5_share,top10_share,gini_index,herfindahl_index,pool_liquidity_usd,pool_token_reserve,pool_sol_reserve,volume_24h_usd,price_current_usd,volatility_1h,volatility_24h,concentration_score,liquidity_score,volume_score,volatility_score,overall_risk_score
+So11111111111111111111111111111111111111112,SOL,Wrapped SOL,2024-08-15 05:21:34+00:00,2024-08-15 05:21:34+00:00,,,,,,921549.46,,,13320894.78,143.81,,3.18,,0.15832602540779256,0.0696565211302362,0.159,0.1229930186152115
